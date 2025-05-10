@@ -17,7 +17,7 @@ A simple, responsive, and stylish calculator built using **HTML**, **CSS**, and 
 
 ## 💻 Tech Stack
 
- **HTML** – Structure
- **CSS** – Styling & layout
- **JavaScript** – Functionality
+ --**HTML** – Structure
+ --**CSS** – Styling & layout
+ --**JavaScript** – Functionality
 
