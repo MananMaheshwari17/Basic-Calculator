@@ -13,7 +13,7 @@ A simple calculator web application built with HTML, CSS, and JavaScript. It sup
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode Screenshot](screenshots/lighttheme.png) | ![Dark Mode Screenshot](screenshots/darktheme.png) |
+| ![Light Mode Screenshot](screenshots-/lighttheme.png) | ![Dark Mode Screenshot](screenshots-/darktheme.png) |
 
 
 ## 🛠️ Tech Stack
