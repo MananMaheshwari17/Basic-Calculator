@@ -13,10 +13,10 @@ A simple calculator web application built with HTML, CSS, and JavaScript. It sup
 ## 🌗 Light & Dark Mode Preview
 
 ### 🌞 Light Mode
-![Light Mode](screenshots-/lighttheme.png)
+![Light Mode](https://github.com/MananMaheshwari17/Basic-Calculator/blob/main/lighttheme.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](screenshots-/darktheme.png)
+![Dark Mode](https://github.com/MananMaheshwari17/Basic-Calculator/blob/main/darktheme.png)
 
 
 
