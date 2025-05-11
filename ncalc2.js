@@ -1,7 +1,19 @@
 const display=document.querySelector('.display');
-const buttons=document.querySelectorAll('button');
+const buttons=document.querySelectorAll('.buttons button');
+const togglebtn=document.getElementById('toggle1');
 
 let currentInput=' ';
+
+togglebtn.addEventListener('click', ()=>{
+    document.body.classList.toggle('light');
+    
+    if(document.body.classList.contains('light')){
+        togglebtn.textContent='🌜'
+    }
+    else{
+        togglebtn.textContent='🌞'
+    }
+})
 
 buttons.forEach(button =>{
     button.addEventListener('click', ()=>{

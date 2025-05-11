@@ -5,6 +5,38 @@ body{
     align-items: center;
     background-color: black;
 }
+body.light{
+    background-color: #f0f0f0;
+    color: #000;
+}
+body.light .calculator{
+    background-color: #bababa;
+}
+body.light .display{
+    background-color: #4c4848;
+    color: #f0f0f0;
+}
+body.light .title{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+body.light button{
+    background-color: #ddd;
+    color: rgb(0, 0, 0);
+}
+body.light button:hover{
+    background-color: #848484; 
+}
+body.light button:active{
+    background-color: rgb(213, 213, 213);
+}
+#toggle1{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
 .title{
     text-align: center;
     color: aliceblue;
