@@ -9,11 +9,15 @@ A simple calculator web application built with HTML, CSS, and JavaScript. It sup
 - Light 🌞 and Dark 🌙 theme toggle
 - Responsive design
 
-## 🎨 Light and Dark Mode Preview
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light Mode Screenshot](screenshots-/lighttheme.png) | ![Dark Mode Screenshot](screenshots-/darktheme.png) |
+## 🌗 Light & Dark Mode Preview
+
+### 🌞 Light Mode
+![Light Mode](screenshots-/lighttheme.png)
+
+### 🌙 Dark Mode
+![Dark Mode](screenshots-/darktheme.png)
+
 
 
 ## 🛠️ Tech Stack
